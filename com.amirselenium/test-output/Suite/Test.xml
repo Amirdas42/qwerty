@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Dell" name="com.amirselenium.demo" tests="1" failures="0" timestamp="29 Oct 2018 12:32:03 GMT" time="0.04" errors="0">
+  <testcase name="qwerty" time="0.024" classname="com.amirselenium.demo"/>
+</testsuite>
